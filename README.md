@@ -1,3 +1,4 @@
-# check-test
 
-I am Trying to test this REPO:
+Testing GitHub achievements 🚀
+
+Another line for testing
